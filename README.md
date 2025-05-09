@@ -1,4 +1,4 @@
-<img width="243" alt="d9959a47c0c8cef96957b966b771e5f" src="https://github.com/user-attachments/assets/f60ac4c4-d32a-4beb-9405-fb9cae0ff16f" />智慧商城项目大纲手册:
+智慧商城项目大纲手册:
 
 [智慧商城项目.zip](https://github.com/user-attachments/files/20122935/default.zip)
 
